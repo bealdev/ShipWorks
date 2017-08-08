@@ -1,4 +1,4 @@
-# ShipWorks - Fulfillment integration
+# ShipWorks - Fulfillment Integration
 
 ShipWorks is a fulfillment house used to trigger to send products from orders via API.
 
